@@ -1,0 +1,8 @@
+This is a demo for git repository
+
+Updated 1st time. 
+
+New update: Upadte 2nd time
+
+Another Update: 3rd time
+I want to check the pull command.
